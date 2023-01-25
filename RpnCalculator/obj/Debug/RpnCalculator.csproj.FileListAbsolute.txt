@@ -1,0 +1,10 @@
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\bin\Debug\RpnCalculator.exe.config
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\bin\Debug\RpnCalculator.exe
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\bin\Debug\RpnCalculator.pdb
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\obj\Debug\RpnCalculator.csproj.AssemblyReference.cache
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\obj\Debug\RpnCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\obj\Debug\RpnCalculator.Properties.Resources.resources
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\obj\Debug\RpnCalculator.csproj.GenerateResource.cache
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\obj\Debug\RpnCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\obj\Debug\RpnCalculator.exe
+C:\Users\Justify\RiderProjects\RpnCalculator\RpnCalculator\obj\Debug\RpnCalculator.pdb
